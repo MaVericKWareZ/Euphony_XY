@@ -26,6 +26,7 @@ The parser has 4 options namely :
 
 Enjoy!
 
+![Image of Histogram](https://github.com/sudoankit/Euphony_XY/blob/master/fig_example/Fig1.png)
   
 ##Room for improvement
 
